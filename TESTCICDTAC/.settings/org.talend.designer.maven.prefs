@@ -1,4 +1,5 @@
 PROJECT_GROUPID=org.example.testcicdtac
-PROJECT_VERSION=8.0.1
+PROJECT_VERSION=0.1.0
+PUBLISH_AS_SNAPSHOT=true
 SKIP_LOOP_DEPENDENCY_CHECK=true
 eclipse.preferences.version=1
